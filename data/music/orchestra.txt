@@ -1,0 +1,196 @@
+Arrangement: Exploration0
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/Star Flow.mp3.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration1
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/Ruskerdax - Pondering the Cosmos_0.mp3.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration2
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/Titan4.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration3
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/Planetrise_v1_1_0.mp3.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration4
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/Drifting Through the Nebula Ambient.mp3.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration5
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/magic space_0.mp3.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration6
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/OutThere.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration7
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/Dystopia Continues_0.mp3.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration8
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/Pressure_0.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration9
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/slzz_plus.mp3.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration10
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/Space Music.mp3.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration11
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/Drifting Beyond the Stars.mp3.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration12
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/enchanted tiki 86.mp3.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration13
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/Blind Shift_0.mp3.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration14
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/song21.mp3.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration15
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/Kim Lightyear - Time Is Ticking Away_0.mp3.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration16
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/song18.mp3.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration17
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/Lurid Delusion.mp3.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration18
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/Kim Lightyear - Starlight_0.mp3.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration19
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/Enemy spotted.mp3.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration20
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/Lost signal main theme.mp3.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration21
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/Kim Lightyear - Aurora_0.mp3.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration22
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/Patience.mp3.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration23
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/Sector Off Limits_0.mp3.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration24
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/title.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration25
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/space_0.mp3.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration26
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/MagoryNET-Winds-of-Venus.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
+Arrangement: Exploration27
+	Era: Exploration
+
+	Movement: Ambient
+		Track: data/music/Spelunker's Anthem Cave Theme.mp3.ogg
+		Volume: min(0.25, 1.0 - (Victory.volume + Defeat.volume) * 0.5)
+
