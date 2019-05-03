@@ -1,0 +1,1172 @@
+﻿###############################################
+OpenGameArt.org automatically generated credits file notice:
+
+THIS FILE IS FOR INFORMATIONAL PURPOSES ONLY.  NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL OPENGAMEART.ORG BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE USE OF THIS FILE OR THE INFORMATION IN IT.
+
+In plain English:  This credits file is automatically generated to the best of our ability, but it remains YOUR RESPONSIBILITY as a game developer to ensure that the art you use is attributed properly.  That is, we can't be held liable even if all of the information in this file is completely wrong.   In addition, some of the art listed in this file may have SPECIAL ATTRIBUTION INSTRUCTIONS that ask that you credit the artist in a particular way, rather than a verbatim copyright notice.  In those cases, you will probably need to hand-edit this file to comply with their instructions.  In some older art, attribution instructions may be included in the art description itself.  Please check the art page to be sure.
+
+We recommend that you delete this notice when you're sure the information here is correct and the attribution instructions are properly followed.  If you aren't the game developer and you're seeing this notice here in the credits, it probably means that the developer hasn't properly verified the attribution information contained herein even though it said they were supposed to do it right on the page where they downloaded this file.  
+###############################################
+
+Title:
+    Space ambient
+
+Author:
+    Osmic
+
+URL:
+    https://opengameart.org/content/space-ambient
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * ville_seppanen-1_g.mp3
+
+----------------------------------------
+
+Title:
+    Doomsy
+
+Author:
+    SouljahdeShiva
+
+URL:
+    https://opengameart.org/content/doomsy
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * enchantmentinstumental_doomsy.mp3
+
+----------------------------------------
+
+Title:
+    Tragic ambient main menu
+
+Author:
+    brandon75689
+
+URL:
+    https://opengameart.org/content/tragic-ambient-main-menu
+
+License(s):
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * ambientmain_0.ogg
+
+----------------------------------------
+
+Title:
+    Another space background track
+
+Author:
+    yd
+
+URL:
+    https://opengameart.org/content/another-space-background-track
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * ObservingTheStar.zip
+
+----------------------------------------
+
+Title:
+    gloomy musicTechnoAmbient
+
+Author:
+    SouljahdeShiva
+
+URL:
+    https://opengameart.org/content/gloomy-musictechnoambient
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * gloom.mp3
+
+----------------------------------------
+
+Title:
+    Space Music: Out There
+
+Author:
+    yd
+
+URL:
+    https://opengameart.org/content/space-music-out-there
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * OutThere.ogg
+
+----------------------------------------
+
+Title:
+    Dark Caves
+
+Author:
+    clymr
+
+URL:
+    https://opengameart.org/content/dark-caves
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * dark_caves.ogg
+
+----------------------------------------
+
+Title:
+    Walk with me
+
+Author:
+    HaelDB
+
+URL:
+    https://opengameart.org/content/walk-with-me
+
+License(s):
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * Patience.ogg
+
+----------------------------------------
+
+Title:
+    Caves of Sorrow
+
+Author:
+    Alexander Zhelanov
+
+URL:
+    https://opengameart.org/content/caves-of-sorrow
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    Alexandr Zhelanov, https://soundcloud.com/alexandr-zhelanov
+
+File(s):
+    * Caves of sorrow.ogg
+
+----------------------------------------
+
+Title:
+    Lurid Delusion
+
+Author:
+    Matthew Pablo
+
+URL:
+    https://opengameart.org/content/lurid-delusion
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * Lurid Delusion.mp3
+
+----------------------------------------
+
+Title:
+    Pressure
+
+Author:
+    yd
+
+URL:
+    https://opengameart.org/content/pressure
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * Pressure.ogg
+
+----------------------------------------
+
+Title:
+    Background space track
+
+Author:
+    yd
+
+URL:
+    https://opengameart.org/content/background-space-track
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * projects.zip
+
+----------------------------------------
+
+Title:
+    Space Atmospere
+
+Author:
+    Alexandr Zhelanov
+
+URL:
+    https://opengameart.org/content/space-atmospere
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    Alexandr Zhelanov, https://soundcloud.com/alexandr-zhelanov
+
+File(s):
+    * Space Atmosphere.mp3
+
+----------------------------------------
+
+Title:
+    Dark Intro
+
+Author:
+    Nikke
+
+URL:
+    https://opengameart.org/content/dark-intro
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * Dark Intro.ogg
+
+----------------------------------------
+
+Title:
+    Space
+
+Author:
+    Alexandr Zhelanov
+
+URL:
+    https://opengameart.org/content/space-1
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    Alexandr Zhelanov, https://soundcloud.com/alexandr-zhelanov
+
+File(s):
+    * space.mp3
+
+----------------------------------------
+
+Title:
+    Weltherrscher
+
+Author:
+    yd
+
+URL:
+    https://opengameart.org/content/weltherrscher
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * WeltHerrschererTheme1.zip
+
+----------------------------------------
+
+Title:
+    Planetrise
+
+Author:
+    FoxSynergy
+
+URL:
+    https://opengameart.org/content/planetrise
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Please credit me as FoxSynergy. If you don&#039;t mind sharing, I&#039;d really love to know about what you&#039;re using it in. Most of all, have fun! :)
+
+File(s):
+    * Planetrise v1_0.mp3
+    * Planetrise v1_0.wav
+    * Planetrise v1_0.ogg
+    * Planetrise_v1_1.mp3
+    * Planetrise_LEO.wav
+
+----------------------------------------
+
+Title:
+    Nebulous
+
+Author:
+    BossLevelVGM
+
+URL:
+    https://opengameart.org/content/nebulous
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    preferred attribution: music by Joe Baxter-Webb (BossLevel VGM)
+
+File(s):
+    * Nebulous.mp3
+
+----------------------------------------
+
+Title:
+    Space Music (Blind Shift)
+
+Author:
+    PetterTheSturgeon
+
+URL:
+    https://opengameart.org/content/space-music-blind-shift
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * Blind Shift.mp3
+
+----------------------------------------
+
+Title:
+    Galactic Temple
+
+Author:
+    yd
+
+URL:
+    https://opengameart.org/content/galactic-temple
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * GalacticTemple.zip
+
+----------------------------------------
+
+Title:
+    World Travel
+
+Author:
+    Macro
+
+URL:
+    https://opengameart.org/content/world-travel
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Please credit music by Dan Knoflicek.  
+
+File(s):
+    * World Travel.mp3
+
+----------------------------------------
+
+Title:
+    Crystal Cave (song18)
+
+Author:
+    cynicmusic
+
+URL:
+    https://opengameart.org/content/crystal-cave-song18
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Credit pixelsphere.org / The Cynic Project. Please link to my website and notify me if you use the music.
+
+File(s):
+    * song18.mp3
+
+----------------------------------------
+
+Title:
+    Mysterious Ambience (song21)
+
+Author:
+    cynicmusic
+
+URL:
+    https://opengameart.org/content/mysterious-ambience-song21
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    credit pixelsphere.org
+
+File(s):
+    * song21.mp3
+
+----------------------------------------
+
+Title:
+    Dream Ambience
+
+Author:
+    TokyoGeisha
+
+URL:
+    https://opengameart.org/content/dream-ambience
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Feel free to use it anyway you want. No credit necessary.
+
+File(s):
+    * Dream (Ambience).mp3
+
+----------------------------------------
+
+Title:
+    They&#039;re Here
+
+Author:
+    Eric Matyas
+
+URL:
+    https://opengameart.org/content/theyre-here
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+Please credit me as follows: "They&#039;re Here" by Eric Matyas Soundimage.org 
+
+File(s):
+    * They're Here.mp3
+
+----------------------------------------
+
+Title:
+    Star Light
+
+Author:
+    Eric Matyas
+
+URL:
+    https://opengameart.org/content/star-light
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+Please credit me as: "Starlight" by Eric Matyas Soundimage.org
+
+File(s):
+    * Star Light.mp3
+
+----------------------------------------
+
+Title:
+    Mech Game Menu
+
+Author:
+    Eric Matyas
+
+URL:
+    https://opengameart.org/content/mech-game-menu
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+Please credit me as follows: "Mech Game Menu" by Eric Matyas Soundimage.org 
+
+File(s):
+    * Mech Game Menu.mp3
+
+----------------------------------------
+
+Title:
+    Factory on Mercury
+
+Author:
+    Eric Matyas
+
+URL:
+    https://opengameart.org/content/factory-on-mercury
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+Please credit me as follows: "Factory on Mercury" by Eric Matyas Soundimage.org 
+
+File(s):
+    * Factory On Mercury.mp3
+
+----------------------------------------
+
+Title:
+    Dystopia Continues
+
+Author:
+    Eric Matyas
+
+URL:
+    https://opengameart.org/content/dystopia-continues
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+Please credit as: "Dystopia Continues" by Eric Matyas Soundimage.org
+
+File(s):
+    * Dystopia Continues.mp3
+
+----------------------------------------
+
+Title:
+    Titan 4
+
+Author:
+    Yubatake
+
+URL:
+    https://opengameart.org/content/titan-4
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    Please just mention my username and this site.
+
+File(s):
+    * Titan4.ogg
+
+----------------------------------------
+
+Title:
+    Sector Off Limits
+
+Author:
+    Eric Matyas
+
+URL:
+    https://opengameart.org/content/sector-off-limits
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+Please credit as: "Sector Off Limits" by Eric Matyas Soundimage.org
+
+File(s):
+    * Sector Off Limits.mp3
+
+----------------------------------------
+
+Title:
+    Airy Ambience
+
+Author:
+    marcelofg55
+
+URL:
+    https://opengameart.org/content/airy-ambience
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    If you use the track credit me as Marcelo Fernandez (with a link to my soundcloud if possible).
+
+File(s):
+    * Airy Ambience.flac
+
+----------------------------------------
+
+Title:
+    Idiots in Space
+
+Author:
+    Gundatsch
+
+URL:
+    https://opengameart.org/content/idiots-in-space
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+
+Copyright/Attribution Notice:
+    Gundatsch - https://soundcloud.com/gundatsch
+
+File(s):
+    * idiotsinspace.ogg
+    * idiotsinspace_low.ogg
+
+----------------------------------------
+
+Title:
+    Dark Ambient Loop 13
+
+Author:
+    MundoSound
+
+URL:
+    https://opengameart.org/content/dark-ambient-loop-13
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+
+Copyright/Attribution Notice:
+    Lucas Calvo - mundosound.com
+
+File(s):
+    * Dark _Atmosphere13_Looped_24bit.wav
+
+----------------------------------------
+
+Title:
+    Dark chamber
+
+Author:
+    marcelofg55
+
+URL:
+    https://opengameart.org/content/dark-chamber
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    “Dark chamber”.
+Music by Marcelo Fernandez (http://www.marcelofernandezmusic.com).
+Licensed under Creative Commons Attribution 4.0 International (http://creativecommons.org/licenses/by/4.0/).
+
+File(s):
+    * Dark chamber.mp3
+
+----------------------------------------
+
+Title:
+    Flaming Deserts
+
+Author:
+    marcelofg55
+
+URL:
+    https://opengameart.org/content/flaming-deserts
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    “Flaming Deserts”.
+Music by Marcelo Fernandez (http://www.marcelofernandezmusic.com).
+Licensed under Creative Commons Attribution 4.0 International (http://creativecommons.org/licenses/by/4.0/).
+
+File(s):
+    * Flaming Deserts.mp3
+
+----------------------------------------
+
+Title:
+    Enchanted Tiki 86
+
+Author:
+    cynicmusic
+
+URL:
+    https://opengameart.org/content/enchanted-tiki-86
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    Give credit to cynicmusic.com if you want
+
+File(s):
+    * enchanted tiki 86.mp3
+
+----------------------------------------
+
+Title:
+    Sci-Fi electronic [lost signal]
+
+Author:
+    PetterTheSturgeon
+
+URL:
+    https://opengameart.org/content/sci-fi-electronic-lost-signal
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * Lost signal main theme (WIP).mp3
+
+----------------------------------------
+
+Title:
+    Spelunker&#039;s Anthem (Cave Theme)
+
+Author:
+    TheMysticBard
+
+URL:
+    https://opengameart.org/content/spelunkers-anthem-cave-theme
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * Spelunker's Anthem (Cave Theme).mp3
+
+----------------------------------------
+
+Title:
+    Dark Ambient
+
+Author:
+    Alexandr Zhelanov
+
+URL:
+    https://opengameart.org/content/dark-ambient-0
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    https://soundcloud.com/alexandr-zhelanov
+
+File(s):
+    * Dark-Amb.mp3
+
+----------------------------------------
+
+Title:
+    Closed area
+
+Author:
+    Alexandr Zhelanov
+
+URL:
+    https://opengameart.org/content/closed-area
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    https://soundcloud.com/alexandr-zhelanov
+
+File(s):
+    * Closed Area.mp3
+    * Closed Area.ogg
+
+----------------------------------------
+
+Title:
+    Mystery Manor
+
+Author:
+    Alexandr Zhelanov
+
+URL:
+    https://opengameart.org/content/mystery-manor
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    https://soundcloud.com/alexandr-zhelanov
+
+File(s):
+    * Mystery Manor.mp3
+    * Mystery Manor.ogg
+
+----------------------------------------
+
+Title:
+    Alone
+
+Author:
+    KLY
+
+URL:
+    https://opengameart.org/content/alone-1
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * Kim Lightyear - Alone.mp3
+
+----------------------------------------
+
+Title:
+    Aurora
+
+Author:
+    KLY
+
+URL:
+    https://opengameart.org/content/aurora
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    Kim Lightyear
+
+File(s):
+    * Kim Lightyear - Aurora.mp3
+
+----------------------------------------
+
+Title:
+    Starlight
+
+Author:
+    KLY
+
+URL:
+    https://opengameart.org/content/starlight-0
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    Credits: Kim Lightyear
+
+File(s):
+    * Kim Lightyear - Starlight.mp3
+
+----------------------------------------
+
+Title:
+    Time Is Ticking Away
+
+Author:
+    KLY
+
+URL:
+    https://opengameart.org/content/time-is-ticking-away
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    Credits: Kim Lightyear
+
+File(s):
+    * Kim Lightyear - Time Is Ticking Away.mp3
+
+----------------------------------------
+
+Title:
+    Enemy spotted
+
+Author:
+    Alexandr Zhelanov
+
+URL:
+    https://opengameart.org/content/enemy-spotted
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    Alexandr Zhelanov https://soundcloud.com/alexandr-zhelanov
+
+File(s):
+    * Enemy spotted.mp3
+    * Enemy spotted.ogg
+
+----------------------------------------
+
+Title:
+    Manaos Drones
+
+Author:
+    Tozan
+
+URL:
+    https://opengameart.org/content/manaos-drones
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    CC0 
+
+File(s):
+    * manaosdrone1.ogg
+
+----------------------------------------
+
+Title:
+    Winds of Venus
+
+Author:
+    Magnesus
+
+URL:
+    https://opengameart.org/content/winds-of-venus
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    Tomasz Kucza / Magory.net
+
+File(s):
+    * MagoryNET-Winds-of-Venus.mp3
+
+----------------------------------------
+
+Title:
+    Magic Space
+
+Author:
+    CodeManu
+
+URL:
+    https://opengameart.org/content/magic-space
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * magic space.mp3
+
+----------------------------------------
+
+Title:
+    Pioneers meets Space
+
+Author:
+    Alexandr Zhelanov
+
+URL:
+    https://opengameart.org/content/pioneers-meets-space
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    Alexandr Zhelanov https://soundcloud.com/alexandr-zhelanov
+
+File(s):
+    * Pioneers meets Space.mp3
+    * Pioneers meets Space.ogg
+
+----------------------------------------
+
+Title:
+    Star Flow
+
+Author:
+    Alexandr Zhelanov
+
+URL:
+    https://opengameart.org/content/star-flow
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    Alexandr Zhelanov https://soundcloud.com/alexandr-zhelanov
+
+File(s):
+    * Star Flow.mp3
+    * Star Flow.ogg
+
+----------------------------------------
+
+Title:
+    Safe Landing Zone
+
+Author:
+    Aspecty
+
+URL:
+    https://opengameart.org/content/safe-landing-zone
+
+License(s):
+    * CC-BY 4.0 ( https://creativecommons.org/licenses/by/4.0/legalcode )
+
+Copyright/Attribution Notice:
+    soundtrack by Aspecty
+
+File(s):
+    * safe landing zone.zip
+
+----------------------------------------
+
+Title:
+    Drifting Beyond the Stars (Background Ambient)
+
+Author:
+    Hitctrl
+
+URL:
+    https://opengameart.org/content/drifting-beyond-the-stars-background-ambient
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    HitCtrl
+
+File(s):
+    * Drifting Beyond the Stars.mp3
+    * Drifting Beyond the Stars.ogg
+
+----------------------------------------
+
+Title:
+    Space Music
+
+Author:
+    Hitctrl
+
+URL:
+    https://opengameart.org/content/space-music-2
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    HitCtrl
+
+File(s):
+    * Space Music.mp3
+    * Space_Music.ogg
+
+----------------------------------------
+
+Title:
+    Ruskerdax - Pondering the Cosmos
+
+Author:
+    Ruskerdax
+
+URL:
+    https://opengameart.org/content/ruskerdax-pondering-the-cosmos-0
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    This music is released to the public domain, which means you are free to use, modify, and distribute it in any form as you see fit. I would appreciate being credited and notified if you use this music for something, however you are not required to do so.
+
+File(s):
+    * Ruskerdax - Pondering the Cosmos.mp3
+
+----------------------------------------
+
+Title:
+    Sci-Fi Ambient - Crashed Ship
+
+Author:
+    Wolfgang
+
+URL:
+    https://opengameart.org/content/sci-fi-ambient-crashed-ship
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    Ted Kerr
+
+File(s):
+    * CrashedShip.ogg
+
+----------------------------------------
+
+Title:
+    Drifting Through the Nebula (Ambient)
+
+Author:
+    Hitctrl
+
+URL:
+    https://opengameart.org/content/drifting-through-the-nebula-ambient
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    HitCtrl
+
+File(s):
+    * Drifting Through the Nebula (Ambient).mp3
+    * Drifting_Through_the_Nebula_Ambient_.ogg
+
+----------------------------------------
+
+Title:
+    Sci-Fi Close
+
+Author:
+    Eric Matyas
+
+URL:
+    https://opengameart.org/content/sci-fi-close
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+Please credit me as follows: "Sci-Fi Close" by Eric Matyas Soundimage.org 
+
+File(s):
+    * Sci-Fi Close.mp3
+
+----------------------------------------
+
+
